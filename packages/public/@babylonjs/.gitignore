@@ -1,0 +1,14 @@
+# ignore the following in those public folders
+node_modules
+*.js
+*.ts
+*.map
+*.scss
+*.css
+*.svg
+*.png
+*.jpg
+!inspector/**/*.*
+!node-editor/**/*.*
+!gui-editor/**/*.*
+!accessibility/**/*.*
